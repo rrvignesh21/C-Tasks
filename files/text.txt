@@ -1,0 +1,9 @@
+Program to copy the data and add '3' to data at even location and display them.
+Program to remove duplicate letters in a file.
+Program to count and remove all the comment lines in a "C" Program.
+To copy a file.
+To read numbers from a file and write even, odd numbers to separate files.
+To append content to a file.
+Program to find and replace a word in a text file.
+To remove a specific line from a text file.
+C program to rename a file using rename() function

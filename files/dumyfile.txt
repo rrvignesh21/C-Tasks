@@ -1,0 +1,8 @@
+Program to copy the data and add '3' to data at even location and display them.
+13 123eq wefdw23q wedw3e4r r3weds ff4we
+ewrw3w2 ser32we sdf4wef 4ew
+To copy a file.
+To read numbers from a file and write even, odd numbers to separate files.
+To append content to a file.
+Program to find and replace a word in a text file.
+To remove a specific line from a text file.
